@@ -13,7 +13,7 @@
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (ES6+)**
+- **JavaScript**
 - **API Gemini**
 
 - Feito com 💜 

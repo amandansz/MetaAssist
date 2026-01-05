@@ -1,6 +1,6 @@
 # Assistente de Metas e estratégias para jogos com IA
 
-Este repositório contém a implementação do **MetaAssist**, uma aplicação web front-end que integra **IA generativa (Google Gemini)** para fornecer respostas objetivas e contextualizadas sobre **meta, builds e estratégias** de jogos competitivos.
+Este repositório contém a implementação do **MetaAssist**, uma aplicação web full-stack que integra **IA generativa (Google Gemini)** para fornecer respostas objetivas e contextualizadas sobre **meta, builds e estratégias** de jogos competitivos.
 
 O projeto demonstra a aplicação prática de **consumo de APIs externas**, manipulação assíncrona de dados, renderização dinâmica de conteúdo e preocupação com clareza de interface e experiência do usuário.
 
